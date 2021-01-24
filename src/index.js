@@ -10,5 +10,8 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 //111
 
-//Hanges again
+
+//Added some code from git
      
+//Added some code from git
+
